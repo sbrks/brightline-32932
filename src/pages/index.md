@@ -5,9 +5,8 @@ sections:
     type: section_hero
     title: The Bright Line
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Curiosity-driven research to make your life better.
     actions:
       - label: Get Started
         url: /docs
